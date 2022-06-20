@@ -1,0 +1,18 @@
+.list {
+    margin: 10px 10px;
+}
+.item{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    font-weight: 500;
+    font-size: 15px;
+        
+}
+.link{
+    cursor: pointer;
+    text-decoration: none;
+}
+.container{
+    width: fit-content;
+}

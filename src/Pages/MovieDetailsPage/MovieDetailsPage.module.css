@@ -1,0 +1,34 @@
+.MovieDetailsInfo {
+    display: flex;
+    padding: 15px;
+    max-width: 300px;
+}
+
+.MovieInfoTextContainer {
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    text-align:start;
+}
+.title{
+    display: flex;
+    margin-top: 10px;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 700px;
+    margin-top: 5px;
+}
+
+.NavLink {
+    margin: 15px;
+    font-weight: 700;
+    font-size: 24px;
+    text-decoration: none;
+    color: rgb(59, 59, 59);
+}
+.list {
+    margin: 10px 10px;
+}

@@ -1,0 +1,14 @@
+.title {
+    display: flex;
+    margin-top: 10px;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    margin-top: 15px;
+}
+.list{
+    margin: 10px 10px ;
+}
