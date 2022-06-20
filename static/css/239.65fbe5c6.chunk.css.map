@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/239.65fbe5c6.chunk.css","mappings":"AAAA,wBAEI,cAAe,CADf,eAAgB,CAEhB,oBACJ","sources":["components/Navigation/Navigation.module.css"],"sourcesContent":[".link{\n    margin-top: 20px;\n    font-size: 20px;\n    text-decoration: none;\n}\n"],"names":[],"sourceRoot":""}
